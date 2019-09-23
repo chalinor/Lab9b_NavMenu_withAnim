@@ -83,17 +83,17 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onDrawerOpened() {
-
+                  //no need to put anything here as we won't be using this method in this lab
             }
 
             @Override
             public void onDrawerClosed() {
-
+                 //no need to put anything here as we won't be using this method in this lab
             }
 
             @Override
             public void onDrawerStateChanged(int newState) {
-
+               //no need to put anything here as we won't be using this method in this lab      
             }
         });
     }
